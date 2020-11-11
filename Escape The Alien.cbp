@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Escape The Alien" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Engine Headers\;Engine Sources\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Escape The Alien" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/allegro-mingw-gcc6.2.0-x86-static-5.2.2/allegro/lib/liballegro_monolith-debug.dll.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Escape The Alien" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:/allegro-mingw-gcc6.2.0-x86-static-5.2.2/allegro/lib/liballegro_monolith.dll.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/allegro-mingw-gcc6.2.0-x86-static-5.2.2/allegro/include/" />
+		</Compiler>
+		<Linker>
+			<Add directory="C:/allegro-mingw-gcc6.2.0-x86-static-5.2.2/allegro/lib/" />
+		</Linker>
+		<Unit filename="Allegro5Exception.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="Allegro5Exception.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="AudioHelper.cpp" />
+		<Unit filename="AudioHelper.hpp" />
+		<Unit filename="AuraEffect.cpp" />
+		<Unit filename="AuraEffect.hpp" />
+		<Unit filename="BonusObjects.cpp" />
+		<Unit filename="BonusObjects.hpp" />
+		<Unit filename="Bullet.cpp" />
+		<Unit filename="Bullet.hpp" />
+		<Unit filename="Bullet1.cpp" />
+		<Unit filename="Bullet1.hpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Bullet2.cpp" />
+		<Unit filename="Bullet2.hpp" />
+		<Unit filename="Collider.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="Collider.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="Enemy1.cpp" />
+		<Unit filename="Enemy1.hpp" />
+		<Unit filename="Enemy2.cpp" />
+		<Unit filename="Enemy2.hpp" />
+		<Unit filename="ExplosionEffect.cpp" />
+		<Unit filename="ExplosionEffect.hpp" />
+		<Unit filename="GameEngine.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="GameEngine.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="Group.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="Group.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="IControl.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="IControl.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="IObject.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="IObject.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="IScene.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="IScene.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="Image.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="Image.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="ImageButton.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="ImageButton.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="LOG.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="LOG.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="Label.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="Label.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="LoseScene.cpp" />
+		<Unit filename="LoseScene.hpp" />
+		<Unit filename="PlayScene.cpp" />
+		<Unit filename="PlayScene.hpp" />
+		<Unit filename="PlayerAbilities.cpp" />
+		<Unit filename="PlayerAbilities.hpp" />
+		<Unit filename="PlayerShip.cpp" />
+		<Unit filename="PlayerShip.hpp" />
+		<Unit filename="Point.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="Point.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="Resources.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="Resources.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="SettingScene.cpp" />
+		<Unit filename="SettingScene.hpp" />
+		<Unit filename="Slider.cpp" />
+		<Unit filename="Slider.hpp" />
+		<Unit filename="Sprite.cpp">
+			<Option virtualFolder="Engine Sources/" />
+		</Unit>
+		<Unit filename="Sprite.hpp">
+			<Option virtualFolder="Engine Headers/" />
+		</Unit>
+		<Unit filename="StageSelectScene.cpp" />
+		<Unit filename="StageSelectScene.hpp" />
+		<Unit filename="StartScene.cpp" />
+		<Unit filename="StartScene.hpp" />
+		<Unit filename="Turret.CPP" />
+		<Unit filename="Turret.hpp" />
+		<Unit filename="WinScene.cpp" />
+		<Unit filename="WinScene.hpp" />
+		<Unit filename="cheatEffect.cpp" />
+		<Unit filename="cheatEffect.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

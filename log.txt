@@ -1,0 +1,174 @@
+[INFO] Game Initializing...
+[INFO] Loaded Resource<image>: resources/images/icon.png
+[INFO] Loaded window icon from: icon.png
+[INFO] There are total 16 supported mouse buttons
+[INFO] Allegro5 initialized
+[INFO] Game begin
+[INFO] Loaded Resource<image>: resources/images/main-bg.jpg scaled to 1600x832
+[INFO] Loaded Resource<font>: resources/fonts/slkscr.ttf with size 100
+[INFO] Loaded Resource<image>: resources/images/win/out.png scaled to 700x160
+[INFO] Loaded Resource<image>: resources/images/win/out.png
+[INFO] Loaded Resource<image>: resources/images/win/in.png
+[INFO] Loaded Resource<font>: resources/fonts/slkscr.ttf with size 48
+[INFO] Loaded Resource<audio>: resources/audios/start.ogg
+[INFO] Game initialized
+[INFO] Game start event loop
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
+[INFO] Loaded Resource<image>: resources/images/stage-select-bg.jpg scaled to 1600x832
+[INFO] Loaded Resource<font>: resources/fonts/slkscr.ttf with size 48
+[INFO] Loaded Resource<image>: resources/images/butt.png scaled to 400x100
+[INFO] Loaded Resource<image>: resources/images/butt.png
+[INFO] Loaded Resource<image>: resources/images/butt-off.png
+[INFO] Loaded Resource<audio>: resources/audios/menu.ogg
+[INFO] Changed to stage-select scene
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
+[INFO] Loaded Resource<image>: resources/images/play/dirt.png scaled to 64x64
+[INFO] Loaded Resource<font>: resources/fonts/slkscr.ttf with size 30
+[INFO] Loaded Resource<font>: resources/fonts/slkscr.ttf with size 48
+[INFO] Loaded Resource<image>: resources/images/play-bg1.jpg scaled to 1600x832
+[INFO] Loaded Resource<audio>: resources/audios/play-bgm.ogg
+[INFO] Loaded Resource<image>: resources/images/play/plane.png
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/enemy-1.png
+[INFO] Loaded Resource<image>: resources/images/play/bullet-1.png
+[INFO] Loaded Resource<audio>: resources/audios/gun.wav
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-1.png scaled to 60x60
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-1.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-2.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-3.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-4.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-5.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-6.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-7.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-8.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-9.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-10.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-11.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-12.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-13.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-14.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-15.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-16.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-17.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-18.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-19.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-20.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-21.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-22.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-23.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-24.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-25.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-26.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-27.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-28.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-29.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-30.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-31.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-32.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-33.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-34.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-35.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-36.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-37.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-38.png
+[INFO] Loaded Resource<image>: resources/images/play/explo/explosion-39.png
+[INFO] Loaded Resource<audio>: resources/audios/explosion.wav
+[INFO] Loaded Resource<audio>: resources/audios/low-hp.wav
+[INFO] Loaded Resource<audio>: resources/audios/click.ogg
+[INFO] Loaded Resource<image>: resources/images/play/immortal-sphere.png
+[INFO] Loaded Resource<audio>: resources/audios/bonus.wav
+[INFO] failed to play audio (once)
+[INFO] Loaded Resource<image>: resources/images/play/enemy-2.png
+[INFO] Loaded Resource<image>: resources/images/play/bullet-2.png
+[INFO] Loaded Resource<audio>: resources/audios/laser.wav
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Loaded Resource<image>: resources/images/play/dirt.png scaled to 64x64
+[INFO] Loaded Resource<font>: resources/fonts/slkscr.ttf with size 30
+[INFO] Loaded Resource<font>: resources/fonts/slkscr.ttf with size 48
+[INFO] Loaded Resource<image>: resources/images/play-bg2.jpg scaled to 1600x832
+[INFO] Loaded Resource<audio>: resources/audios/play-bgm.ogg
+[INFO] Loaded Resource<image>: resources/images/play/plane.png
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/enemy-1.png
+[INFO] Loaded Resource<image>: resources/images/play/bullet-1.png
+[INFO] Loaded Resource<audio>: resources/audios/gun.wav
+[INFO] Game Terminating...
+[INFO] Game terminated
+[INFO] Game end
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
